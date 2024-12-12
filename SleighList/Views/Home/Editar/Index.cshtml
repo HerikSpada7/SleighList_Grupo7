@@ -1,0 +1,45 @@
+﻿<main class="container-main">
+    <div class="box-conteudo">
+        <h1>Editar Item</h1>
+        <!-- Formulário de edição com método POST -->
+        <form method="post" action="@Url.Action("Atualizar", new { id = ViewBag.Item.ItemID })">
+            <div class="form-linha">
+                <!-- Campo para Nome -->
+                <div class="form-group-name">
+                    <label class="form-label" for="Nome">Nome</label>
+                    <input type="text" name="Nome" class="form-input" placeholder="Nome do item"
+                        value="@ViewBag.Item.Nome" required>
+                </div>
+            </div>
+
+            <div class="form-linha">
+                <!-- Campo para Preço por Unidade -->
+                <div class="form-group">
+                    <label class="form-label" for="Preco">Preço por Unidade</label>
+                    <input type="number" step="0.01" name="Preco" class="form-input" placeholder="Preço por unidade"
+                        value="@ViewBag.Item.Preco" required>
+                </div>
+
+                <!-- Campo para Quantidade -->
+                <div class="form-group">
+                    <label class="form-label" for="Quantidade">Quantidade</label>
+                    <input type="number" name="Quantidade" class="form-input" placeholder="Quantidade"
+                        value="@ViewBag.Item.Quantidade" required>
+                </div>
+            </div>
+
+            <div class="form-linha">
+                <!-- Campo para Descrição -->
+                <div class="form-group">
+                    <label class="form-label" for="Descricao">Descrição</label>
+                    <textarea name="Descricao" class="form-input form-descricao" placeholder="Descrição do item">@ViewBag.Item.Descricao</textarea>
+                </div>
+            </div>
+
+            <div class="btn-div">
+                <!-- Botão de envio para salvar as alterações -->
+                <button type="submit" class="btn btn-cadastrar">Editar</button>
+            </div>
+        </form>
+    </div>
+</main>
