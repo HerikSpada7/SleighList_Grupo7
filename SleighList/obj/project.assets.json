@@ -4733,19 +4733,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\49984891860\\.nuget\\packages\\": {}
+    "C:\\Users\\56184436864\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\49984891860\\Desktop\\SleighListGP7\\SleighList\\SleighList.csproj",
+      "projectUniqueName": "C:\\Users\\56184436864\\Desktop\\SleighListGP7\\SleighList\\SleighList.csproj",
       "projectName": "SleighList",
-      "projectPath": "C:\\Users\\49984891860\\Desktop\\SleighListGP7\\SleighList\\SleighList.csproj",
-      "packagesPath": "C:\\Users\\49984891860\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\49984891860\\Desktop\\SleighListGP7\\SleighList\\obj\\",
+      "projectPath": "C:\\Users\\56184436864\\Desktop\\SleighListGP7\\SleighList\\SleighList.csproj",
+      "packagesPath": "C:\\Users\\56184436864\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\56184436864\\Desktop\\SleighListGP7\\SleighList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\49984891860\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\56184436864\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
