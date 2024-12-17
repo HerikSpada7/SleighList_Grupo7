@@ -26,7 +26,23 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\56184436864\Desktop\SleighListGP7\SleighList
 build_property._RazorSourceGeneratorDebug = 
 
+<<<<<<< HEAD
 [C:/Users/56184436864/Desktop/SleighListGP7/SleighList/Views/Home/Privacy.cshtml]
+=======
+[C:/Users/49984891860/Desktop/SleighListGP7/SleighList/Views/Home/Editar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0YXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/49984891860/Desktop/SleighListGP7/SleighList/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/49984891860/Desktop/SleighListGP7/SleighList/Views/Home/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/49984891860/Desktop/SleighListGP7/SleighList/Views/Home/Privacy.cshtml]
+>>>>>>> 329ea3699f1974a3118fd4911de1e7c12fbf4a7f
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
